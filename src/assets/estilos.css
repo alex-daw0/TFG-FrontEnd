@@ -1,0 +1,11 @@
+.botonesModal button {
+    height: 3rem;
+    color: white;
+    font-weight: 500;
+    background-color: var(--primary-color);
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    width: 50%;
+  }
+
+
